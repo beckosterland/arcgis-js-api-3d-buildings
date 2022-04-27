@@ -160,8 +160,9 @@ require([
       map: map,
       //set camera properties
       camera: {
-        position: [-73.990, 40.669, 9400],
-        tilt: 25
+        position: [-74.015, 40.685, 1400],
+        tilt: 60,
+        heading: 15
       }
     });
 
